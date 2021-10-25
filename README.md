@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--  custom editing starts from here  -->
 
 
-![I am a React.js Developer.]()
+![I am a React.js Developer.](./img/me.jpg)
 
 # Hi there 👋, I'm Syed Mahbub.
 ## I am a React.js Developer.
