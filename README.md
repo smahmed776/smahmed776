@@ -65,18 +65,18 @@ I am a Front End web application developer . I like to build my project with Rea
 
 ![GitHub metrics](https://metrics.lecoq.io/smahmed776)  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmed776)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmed776&layout=compact&theme=radical)](https://github.com/smahmed776/github-readme-stats)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&count_private=true)   -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smahmed776&show_icons=true&count_private=true)   -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smahmed776&show_icons=true&theme=radical)
 
 
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atik65)  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=smahmed776)](https://github.com/ryo-ma/github-profile-trophy) -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smahmed776)  
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=smahmed776)](https://github.com/smahmed776/github-profile-trophy) -->
  
 
 
