@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 <!--  custom editing starts from here  -->
 
 
-![I am a React.js Developer.](./img/me.jpg)
-
 # Hi there 👋, I'm Syed Mahbub.
 ## I am a Fullstack MERN Developer.
 
@@ -68,7 +66,9 @@ I am a fullstack web application developer . I like to build my project with Rea
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/smahmed776)  
+![GitHub metrics](https://metrics.lecoq.io/smahmed776)  <a href="https://app.daily.dev/smahmed776"><img src="https://api.daily.dev/devcards/6e3f3734fdab46028696b83056356e8c.png?r=6ur"
+                                                align="right"
+                                                width="400" alt="Syed Mahbub's Dev Card"/></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmed776)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmed776&layout=compact&theme=radical)](https://github.com/smahmed776/github-readme-stats)
