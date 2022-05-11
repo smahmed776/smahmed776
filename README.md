@@ -66,7 +66,7 @@ I am a fullstack web application developer . I like to build my project with Rea
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/smahmed776)  <a href="https://app.daily.dev/smahmed776"><img src="https://api.daily.dev/devcards/6e3f3734fdab46028696b83056356e8c.png?r=6ur"
+![GitHub metrics](https://metrics.lecoq.io/smahmed776)  <a href="https://app.daily.dev/smahmed776"><img src="https://github.com/smahmed776/smahmed776/blob/main/devcard.svg"
                                                 align="right"
                                                 width="400" alt="Syed Mahbub's Dev Card"/></a>
 
