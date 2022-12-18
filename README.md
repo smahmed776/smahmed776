@@ -84,6 +84,7 @@ I am a fullstack web application developer . I like to build my project with Rea
 ![trophy](https://github-profile-trophy.vercel.app/?username=smahmed776)
  
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smahmed776)  
+![GitHub Activity Graph]([https://activity-graph.herokuapp.com](https://github-readme-activity-graph.cyclic.app)/graph?username=smahmed776)  
+<!-- 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smahmed776)   -->
 ![Profile views](https://gpvc.arturio.dev/smahmed776)
