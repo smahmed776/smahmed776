@@ -81,7 +81,7 @@ I am a fullstack web application developer . I like to build my project with Rea
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smahmed776)  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=smahmed776)](https://github.com/smahmed776/github-profile-trophy) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=smahmed776)](https://github.com/smahmed776/github-profile-trophy)
  
 
 
