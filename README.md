@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## I am a Fullstack MERN Developer.
 
 
-I am a fullstack web application developer . I like to build my project with React.js but I can do it with vanilla js also . I am using React because it  saves lot of time. 
+I am a full-stack web developer with a passion for creating dynamic and engaging digital experiences. My expertise lies in the MERN stack (MongoDB, ExpressJS, React, and NodeJS) but I have a wide range of skills in various technologies including HTML, CSS3, Bootstrap, Tailwind, Material-UI, JavaScript, React, NextJS, NodeJS, NestJS, Socket.io, MongoDB, PostgreSQL, DynamoDB, C-panel, Cypress e2e testing, TypeScript, and REST API.
 
 
 
@@ -52,8 +52,8 @@ I am a fullstack web application developer . I like to build my project with Rea
 - ✔WEBPACK -->
 
 
-- 🔭 I’m currently working on https://github.com/smahmed776 
-- 🌱 I’m currently learning Node.js 
+- 🔭 I’m currently working on [Flojoy Studio](https://github.com/flojoy-io/studio), [Flojoy Docs](https://github.com/flojoy-io/docs) 
+- 🌱 I’m currently learning Python and C++
 - 👯 I’m looking to collaborate on Front End development 
 - 💬 Ask me about MERN stack and vanilla Javascript 
 - 📫 How to reach me: facebook:https://www.facebook.com/xsm.ahmed/                  LinkedIn:https://www.linkedin.com/in/syed-mahbub-ahmed-6bab84118
@@ -62,7 +62,7 @@ I am a fullstack web application developer . I like to build my project with Rea
 
 ### Connect with me 
 
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/smahmed776)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/syed-mahbub-ahmed-6bab84118)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/xsm.ahmed)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='30'>](https://codepen.io/atik65)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='30'>](https://stackoverflow.com)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/smahmed776)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/syed-mahbub-ahmed-6bab84118)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/xsm.ahmed)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/)  <!--[<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='30'>](https://codepen.io/) -->  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='30'>](https://stackoverflow.com)  
 
 
 
