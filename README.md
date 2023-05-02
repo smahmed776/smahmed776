@@ -66,10 +66,11 @@ I am a full-stack web developer with a passion for creating dynamic and engaging
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/smahmed776)  <a href="https://app.daily.dev/smahmed776"><img src="https://github.com/smahmed776/smahmed776/blob/main/devcard.svg"
+![GitHub metrics](https://metrics.lecoq.io/smahmed776)  
+<!-- <a href="https://app.daily.dev/smahmed776"><img src="https://github.com/smahmed776/smahmed776/blob/main/devcard.svg"
                                                 align="right"
                                                 width=370 alt="Syed Mahbub's Dev Card"/></a>
-
+ -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmed776)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmed776&layout=compact&theme=radical)](https://github.com/smahmed776/github-readme-stats)
 
