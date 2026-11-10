@@ -4,7 +4,7 @@
 
 # Hi, I'm Syed Mahbub Ahmed.
 
-**Full-stack engineer · Web, mobile & desktop · Portsmouth, UK**
+**Full-stack engineer · Web, mobile & desktop · LEEDS, UK**
 
 I build the parts people see and the systems that make them work: storefronts, native apps, APIs, real-time features and the infrastructure behind them. My favourite kind of work is taking a product from an early idea through to something a team can use every day.
 
@@ -12,7 +12,7 @@ I build the parts people see and the systems that make them work: storefronts, n
   <a href="https://smahmed.pro"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-0D1117?style=flat-square&amp;labelColor=21262D&amp;color=0D1117" alt="Portfolio: smahmed.pro" /></a>
   <a href="https://smahmed.pro/cv/syed-mahbub-ahmed-cv.pdf"><img src="https://img.shields.io/badge/CV-Read%20my%20experience-0D1117?style=flat-square&amp;labelColor=21262D&amp;color=0D1117" alt="Read my CV" /></a>
   <a href="https://www.linkedin.com/in/syed-mahbub-ahmed-6bab84118/"><img src="https://img.shields.io/badge/LinkedIn-Let%E2%80%99s%20connect-0D1117?style=flat-square&amp;labelColor=21262D&amp;color=0D1117" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:smahmed776@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0D1117?style=flat-square&amp;labelColor=21262D&amp;color=0D1117" alt="Email Syed" /></a>
+  <a href="mailto:contact@smahmed.pro"><img src="https://img.shields.io/badge/Email-Say%20hello-0D1117?style=flat-square&amp;labelColor=21262D&amp;color=0D1117" alt="Email Syed" /></a>
 </p>
 
 ---
@@ -104,4 +104,4 @@ Most of my commercial work lives in private repositories. The projects above giv
 
 Interested in the architecture, decisions or tradeoffs behind one of these products? Let's talk.
 
-**[Explore my portfolio →](https://smahmed.pro)** · **[Connect on LinkedIn](https://www.linkedin.com/in/syed-mahbub-ahmed-6bab84118/)** · **[Email me](mailto:smahmed776@gmail.com)**
+**[Explore my portfolio →](https://smahmed.pro)** · **[Connect on LinkedIn](https://www.linkedin.com/in/syed-mahbub-ahmed-6bab84118/)** · **[Email me](mailto:contact@smahmed.pro)**
