@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">From the first sketch to the shipped product.</title>
+  <desc id="desc">Syed Mahbub Ahmed. A dark editorial banner with mint accents and connected web, mobile and API diagrams.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#27312f"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#111c19"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="#0d1117"/>
+  <rect x="690" width="510" height="400" rx="20" fill="url(#fade)"/>
+  <rect x="690" width="510" height="400" fill="url(#dots)"/>
+  <path d="M32 32h34M32 32v34M1168 334v34h-34" stroke="#a7f3d0" stroke-width="2" fill="none"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <circle cx="70" cy="78" r="5" fill="#a7f3d0"/>
+    <text x="88" y="84" fill="#a7f3d0" font-size="16" font-weight="600" letter-spacing="2">SYED MAHBUB AHMED</text>
+    <text x="64" y="162" fill="#f0f6fc" font-size="48" font-weight="700" letter-spacing="-1.5">From the first sketch</text>
+    <text x="64" y="223" fill="#a7f3d0" font-size="48" font-weight="700" letter-spacing="-1.5">to the shipped product.</text>
+    <text x="66" y="278" fill="#aeb9c6" font-size="18">Full-stack engineering across web, mobile &amp; desktop.</text>
+    <text x="66" y="343" fill="#aeb9c6" font-size="14" letter-spacing="1.5">PORTSMOUTH, UK</text>
+    <text x="274" y="343" fill="#a7f3d0" font-size="14" letter-spacing="1.5">SMAHMED.PRO ↗</text>
+    <g transform="translate(750 57)">
+      <path d="M132 137v90h102M234 210v17M225 80h85v86" fill="none" stroke="#5c9d85" stroke-width="2" stroke-dasharray="5 7"/>
+      <rect x="0" y="0" width="248" height="149" rx="12" fill="#161f24" stroke="#47685c"/>
+      <path d="M0 32h248" stroke="#34463f"/>
+      <circle cx="17" cy="16" r="3" fill="#a7f3d0"/><circle cx="30" cy="16" r="3" fill="#688a7c"/><circle cx="43" cy="16" r="3" fill="#688a7c"/>
+      <rect x="18" y="50" width="67" height="81" rx="5" fill="#223c32"/>
+      <path d="M103 59h107M103 76h77M103 108h38" stroke="#7eab96" stroke-width="6" stroke-linecap="round"/>
+      <rect x="274" y="106" width="103" height="183" rx="16" fill="#161f24" stroke="#739c88"/>
+      <rect x="303" y="116" width="46" height="5" rx="3" fill="#739c88"/>
+      <rect x="287" y="140" width="77" height="54" rx="7" fill="#294b3c"/>
+      <path d="M291 213h55M291 227h42M291 241h51" stroke="#7eab96" stroke-width="5" stroke-linecap="round"/>
+      <path d="M309 275h33" stroke="#a7f3d0" stroke-width="3" stroke-linecap="round"/>
+      <rect x="52" y="204" width="191" height="86" rx="10" fill="#182720" stroke="#47685c"/>
+      <text x="69" y="232" fill="#a7f3d0" font-size="12" font-family="monospace" letter-spacing="1">API / DATA / INFRA</text>
+      <text x="69" y="266" fill="#f0f6fc" font-size="24" font-family="monospace">ship();</text>
+      <circle cx="132" cy="171" r="5" fill="#a7f3d0"/>
+      <circle cx="264" cy="227" r="5" fill="#a7f3d0"/>
+    </g>
+  </g>
+</svg>
